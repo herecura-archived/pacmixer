@@ -2,7 +2,7 @@
 
 pkgname=pacmixer
 pkgver=0.6.3
-pkgrel=1
+pkgrel=2
 pkgdesc="alsamixer alike for PulseAudio."
 arch=('x86_64')
 url="https://github.com/KenjiTakahashi/pacmixer"
